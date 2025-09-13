@@ -153,8 +153,8 @@ const CartPage = () => {
         <div className="text-center">
           <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-red-600 mx-auto mb-4"></div>
           <p>
-            Loading your
-            cart...
+            Loading your cart
+            {"..."}
           </p>
         </div>
       </div>
